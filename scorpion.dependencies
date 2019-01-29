@@ -1,0 +1,17 @@
+[
+ {
+   "repository":  "ScorpionRom-Devices/device_oneplus_extras",
+   "target_path": "device/oneplus/extras",
+   "branch":      "sr-2.x"
+ },
+ {
+   "repository" : "ScorpionRom-Devices/kernel_oneplus_msm8996",
+   "target_path": "kernel/oneplus/msm8996",
+   "branch":      "sr-2.x"
+ },
+ {
+   "repository" : "ScorpionRom-Devices/vendor_oneplus",
+   "target_path": "vendor/oneplus",
+   "branch":      "sr-2.x"
+ }
+]
